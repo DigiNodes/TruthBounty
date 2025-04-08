@@ -64,6 +64,7 @@ cp .env.example .env
 - `chore/`: Maintenance tasks
 
 ### Commit Message Format
+
 We follow [Conventional Commits:](https://www.conventionalcommits.org/en/v1.0.0/)
 
 **Examples**
